@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Prasad Sahoo</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
-<img align="center"alt="coding"width="450"src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="center"alt="coding"width="1000"src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaprasadsahoos1200&label=Profile%20views&color=0e75b6&style=flat" alt="adityaprasadsahoos1200" /> </p>
 
